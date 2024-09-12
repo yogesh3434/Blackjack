@@ -203,24 +203,18 @@ public class Blackjack {
 
         resetGame.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
-                // Rebuild the deck
                 buildDeck();
                 
-                // Shuffle the deck
                 shuffleDeck();
         
-                // Clear the hands
                 dealerHand.clear();
                 playerHand.clear();
         
-                // Reset buttons
                 hitButton.setEnabled(true);
                 stayButton.setEnabled(true);
         
-                // Start a new game
                 startGame();
         
-                // Repaint the panel to reflect changes
                 gamePanel.repaint();
             }
         });
