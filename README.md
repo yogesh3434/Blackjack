@@ -2,6 +2,12 @@
 
 This project is a simple Blackjack game implemented using Java's Swing framework. It features a graphical user interface (GUI) that allows users to play a game of Blackjack against a dealer. The game includes essential features such as card dealing, hit and stay options, and game outcome determination.
 
+<div align="left">
+      <a href="https://www.youtube.com/watch?v=s_R1LbqLm2U">
+         <img src="https://i9.ytimg.com/vi/s_R1LbqLm2U/mqdefault.jpg?sqp=CPjKkrcG-oaymwEmCMACELQB8quKqQMa8AEB-AHSCIAC0AWKAgwIABABGEwgYihlMA8=&rs=AOn4CLCGF0Dceo-xG6ABcYNJqIj3ZF4LHA"width:100%;">
+      </a>
+</div>
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
